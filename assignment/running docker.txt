@@ -1,0 +1,9 @@
+Build command
+--------------------
+
+docker build -t assignment-image .
+
+
+Run Command
+---------------------
+docker run --name assignmentcontainer assignment-image
