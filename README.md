@@ -15,4 +15,4 @@ Run Command
 docker run --name assignmentcontainer assignment-image
 
 # NOTE
-Updated the jar file today. Last time I did it from the release 
+Updated the jar file.
